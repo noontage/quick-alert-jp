@@ -42,6 +42,6 @@ end
 
 また、本ライブラリは上記運用アカウントとは何ら関係はありませんので、このライブラリに関する質問を情報提供元へすることはお控えください。
 
-- ※1: https://stream.twitter.com/1.1/statuses/filter.json
+- ※1: https://developer.twitter.com/en/docs/tweets/filter-realtime/api-reference/post-statuses-filter.html
 
 - ※2: https://twitter.com/eewbot
