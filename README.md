@@ -36,12 +36,12 @@ end
 注意（重要）
 ---------
 
-情報源の現在の実装は、Twitter API の `filter.json`※1 を利用して、`@eewbot`(緊急地震速報Botさま※2)から取得します。貴重な情報の提供に感謝致します。
+情報源の現在の実装は、Twitter API の `filter.json`※1を利用して、`@eewbot`(緊急地震速報Botさま※2)から取得します。貴重な情報の提供に感謝致します。
 
 その性格上、Twitter API の仕様変更・廃止や、上記アカウントの運用状況に強く依存するために、商用利用には全く向いていません。
 
 また、本ライブラリは上記運用アカウントとは何ら関係はありませんので、このライブラリに関する質問を情報提供元へすることはお控えください。
 
-- ※1: https://twitter.com/eewbot
+- ※1: https://stream.twitter.com/1.1/statuses/filter.json
 
-- ※2: https://stream.twitter.com/1.1/statuses/filter.json
+- ※2: https://twitter.com/eewbot
